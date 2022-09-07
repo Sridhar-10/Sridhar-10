@@ -5,11 +5,11 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
 
-- 🔭 I’m currently studying in **Masai School**
-
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Data Structures, Algorithms and MERN stack**.
 
 - 👯 I’m looking to collaborate on **Substantial projects**
+
+- 👨‍💻 All of my projects are available at **My Portfolio**
 
 - 💬 Ask me about **Javascript,HTML,CSS,React js**
 
