@@ -1,5 +1,6 @@
 <p>Hi There👋</p>
 <h1>I'm Sridhar</h1>
+<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 <p align="left" font >Like to build user friendly products and web applications with a specialization in MERN stack.</p>
 
