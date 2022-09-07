@@ -27,4 +27,4 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sridhar-10&show_icons=true&locale=en" alt="sridhar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sridhar-10&" alt="sridhar" /></p>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sridhar-10)  
+<img src="https://activity-graph.herokuapp.com/graph?username=Sridhar-10"/>
